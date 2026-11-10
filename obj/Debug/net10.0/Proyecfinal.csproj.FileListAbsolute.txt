@@ -1,0 +1,15 @@
+C:\Users\coloc\source\repos\Proyecfinal\obj\Debug\net10.0\Proyecfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coloc\source\repos\Proyecfinal\obj\Debug\net10.0\Proyecfinal.AssemblyInfoInputs.cache
+C:\Users\coloc\source\repos\Proyecfinal\obj\Debug\net10.0\Proyecfinal.AssemblyInfo.cs
+C:\Users\coloc\source\repos\Proyecfinal\obj\Debug\net10.0\Proyecfinal.csproj.CoreCompileInputs.cache
+C:\Users\coloc\source\repos\Proyecfinal\bin\Debug\net10.0\Proyecfinal.exe
+C:\Users\coloc\source\repos\Proyecfinal\bin\Debug\net10.0\Proyecfinal.deps.json
+C:\Users\coloc\source\repos\Proyecfinal\bin\Debug\net10.0\Proyecfinal.runtimeconfig.json
+C:\Users\coloc\source\repos\Proyecfinal\bin\Debug\net10.0\Proyecfinal.dll
+C:\Users\coloc\source\repos\Proyecfinal\bin\Debug\net10.0\Proyecfinal.pdb
+C:\Users\coloc\source\repos\Proyecfinal\obj\Debug\net10.0\Proyecfinal.dll
+C:\Users\coloc\source\repos\Proyecfinal\obj\Debug\net10.0\refint\Proyecfinal.dll
+C:\Users\coloc\source\repos\Proyecfinal\obj\Debug\net10.0\Proyecfinal.pdb
+C:\Users\coloc\source\repos\Proyecfinal\obj\Debug\net10.0\Proyecfinal.genruntimeconfig.cache
+C:\Users\coloc\source\repos\Proyecfinal\obj\Debug\net10.0\ref\Proyecfinal.dll
+C:\Users\coloc\source\repos\Proyecfinal\obj\Debug\net10.0\Proyecfi.77B3B244.Up2Date
